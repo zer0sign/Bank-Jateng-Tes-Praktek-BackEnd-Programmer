@@ -41,3 +41,5 @@ Status: Belum Selesai
 1. Git clone
 2. Import mySql
 3. Npm Install
+4. Jalankan Npm start
+5. app akan Berjalan di Port 9000
